@@ -1,6 +1,7 @@
 🏥 Healthcare Analytics Dashboard
 
 📌 Project Overview
+
 This Healthcare Analytics Dashboard is developed using Power BI to transform raw healthcare data into meaningful business insights. The dashboard helps analyze patient trends, hospital performance, revenue metrics, and operational KPIs through interactive visualizations.
 
 The project focuses on improving healthcare decision-making using data-driven insights and professional dashboard design techniques.
