@@ -41,6 +41,7 @@ Data Modeling
 Excel / CSV Dataset
 
 📷 Dashboard Preview
-(https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png)
+
+https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png
 
 
