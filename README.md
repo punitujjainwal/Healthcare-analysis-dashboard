@@ -43,15 +43,4 @@ Excel / CSV Dataset
 📷 Dashboard Preview
 (https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png)
 
-🚀 Project Highlights
 
-Built an interactive healthcare analytics dashboard
-Applied data cleaning and transformation using Power Query
-Used DAX measures for KPI calculations
-Designed professional and user-friendly visualizations
-Focused on real-world healthcare business analysis
-
-👨‍💻 Author
-
-Punit kumar
-Aspiring Data Analyst | Power BI Enthusiast | Excel & SQL Learner
