@@ -26,9 +26,9 @@ Power Query
 DAX
 Data Modeling
 Excel / CSV Dataset
-📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+📷 Dashboard Preview
+(https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png)
 
 🚀 Project Highlights
 Built an interactive healthcare analytics dashboard
@@ -38,5 +38,5 @@ Designed professional and user-friendly visualizations
 Focused on real-world healthcare business analysis
 👨‍💻 Author
 
-Punit Ujjainwal
+Punit kumar
 Aspiring Data Analyst | Power BI Enthusiast | Excel & SQL Learner
