@@ -1,12 +1,12 @@
-🏥 Healthcare Analytics Dashboard
+## 🏥 Healthcare Analytics Dashboard
 
-📌 Project Overview
+# 📌 Project Overview
 
 This Healthcare Analytics Dashboard is developed using Power BI to transform raw healthcare data into meaningful business insights. The dashboard helps analyze patient trends, hospital performance, revenue metrics, and operational KPIs through interactive visualizations.
 
 The project focuses on improving healthcare decision-making using data-driven insights and professional dashboard design techniques.
 
-📊 Key Features
+# 📊 Key Features
 
 Patient data analysis
 Revenue and operational KPI tracking
@@ -16,7 +16,7 @@ Professional healthcare dashboard design
 Data-driven business insights
 
 
-📈 Business Insights
+# 📈 Business Insights
 
 Identified that Cigna generated the highest revenue contribution, reaching approximately 287M, making it the top-performing insurance provider in the dataset.
 
@@ -28,7 +28,7 @@ Evaluated doctor performance based on patient volume, where Michael Smith emerge
 
 Observed that the gender distribution among patients was nearly balanced, indicating an equal representation across genders.
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 Power BI
 
@@ -40,8 +40,9 @@ Data Modeling
 
 Excel / CSV Dataset
 
-📷 Dashboard Preview
+## Dashboard Preview
 
 https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png
+![Dashboard preview](https://github.com/punitujjainwal/Healthcare-analysis-dashboard/blob/main/Screenshot%202026-05-21%20021903.png)
 
 
